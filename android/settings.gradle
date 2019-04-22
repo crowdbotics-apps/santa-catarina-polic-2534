@@ -1,0 +1,3 @@
+rootProject.name = 'santa_catarina_polic_2534'
+
+include ':app'
